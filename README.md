@@ -2,7 +2,7 @@
 
 Full-stack forum app that implements CRUD operations for categories and posts under those categories.  
 The technical stack is:  
-&emsp; -Frontend: JavaScript/React  
+&emsp; -Frontend: JavaScript/React, including Bootstrap libraries  
 &emsp; -Backend: Python/Django  
 &emsp; -Database: PostgreSQL  
   
