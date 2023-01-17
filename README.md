@@ -20,3 +20,6 @@ On this page we see the categories already creted and stored in the database. We
 ### Individual Category Page
 By linking the pimary key for each category to its related posts, we get all posts created under each category by clicking on the link. On this page we have the create, read, and delete functionality, once the post is opened the update functionality is seen.
 <img width="1203" alt="Screen Shot 2023-01-17 at 8 52 35 AM" src="https://user-images.githubusercontent.com/100933440/212783945-20729a83-cf99-4838-ad21-a8a49eff62be.png">
+
+### Models Used
+<img width="910" alt="Screen Shot 2023-01-17 at 10 01 05 AM" src="https://user-images.githubusercontent.com/100933440/212787499-15b7f8d8-0768-4e36-8bbd-08b77c757bba.png">
