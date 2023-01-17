@@ -1,4 +1,4 @@
-# project_4
+# Basic Forum Web Application
 
 Full-stack forum app that implements CRUD operations for categories and posts under those categories.  
 The technical stack is:  
